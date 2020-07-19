@@ -1,6 +1,6 @@
 {
-"name": "ARGstakepool",
-"description": "primer pool cardano  de argentina",
-"ticker": "ARGstakepool",
-"homepage": "https://argstakepool.com"
+  "name": "ARGstakepool",
+  "ticker": "ARGsp",
+  "description": "primer stake pool ADA CARDANO de argentina",
+  "homepage": "http://argstakepool.io"
 }
